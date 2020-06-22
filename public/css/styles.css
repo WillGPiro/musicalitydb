@@ -1,6 +1,6 @@
 body{
   margin:0;
-  font-family:"Roboto";
+  font-family: 'Roboto', sans-serif;
   background: #eaeaea;
 }
 
@@ -99,7 +99,7 @@ a {
 ==========================================*/
 
 header {
-  font-family: 'Monoton', cursive;
+  font-family: 'Notable', sans-serif;
   text-align: center;
   font-size: 33px;
   border-bottom: 1px solid #2196F3;
