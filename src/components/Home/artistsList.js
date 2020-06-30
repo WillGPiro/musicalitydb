@@ -8,7 +8,7 @@ const list = (artists) => (
     artists.map(item => (
       <Link 
         key={item.id}
-        to={`/artist/${item.id}`}
+        to={`/artists/${item.id}`}
         className="artist_item"
         style={{
             background: `url('/images/covers/${item.cover}.jpg')`
